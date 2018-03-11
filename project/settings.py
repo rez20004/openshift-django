@@ -61,6 +61,7 @@ INSTALLED_APPS = [
     'rest_framework_swagger',
 
     # projects apps.
+    'welcome.apps.WelcomeConfig',
     'universities.apps.UniversitiesConfig'
 ]
 
